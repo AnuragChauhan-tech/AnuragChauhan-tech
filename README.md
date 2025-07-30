@@ -1,5 +1,9 @@
 ## Hi there 👋 Anurag CHauhan 
-
+🎓 I'm currently pursuing B.Tech in Computer Science and Engineering (CSE).
+💡 I'm just getting started with coding and exploring the world of programming.
+🚀 I’m learning C, Python, and Web Development step-by-step.
+📘 This GitHub will document my journey from a beginner to a confident developer.
+🔧 I'm open to collaborating on small beginner projects to grow together.
 <!--
 **AnuragChauhan-tech/AnuragChauhan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
